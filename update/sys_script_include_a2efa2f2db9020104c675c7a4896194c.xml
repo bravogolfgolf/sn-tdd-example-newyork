@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_402400_tdd_examp.DataPlanRequestUtil</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>DataPlanRequestUtil</name>
+        <script><![CDATA[var DataPlanRequestUtil = Class.create();
+DataPlanRequestUtil.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+    getDeviceTypes: function(provider) {
+        var PROVIDER = provider || this.getParameter('sysparm_provider');
+        var devices = [];
+        var plans = new GlideAggregate("x_402400_tdd_examp_data_plan_data_lookup");
+        plans.addQuery('active', true);
+        plans.addQuery('provider', PROVIDER);
+        plans.groupBy('device_type');
+        plans.query();
+        while (plans.next()) {
+            var device_type = plans.device_type.toString();
+            devices.push(device_type);
+            var result = this.newItem('result');
+            if (result) {
+                result.setAttribute('device', device_type);
+            }
+        }
+        return devices;
+    },
+    type: 'DataPlanRequestUtil'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-09 15:31:35</sys_created_on>
+        <sys_id>a2efa2f2db9020104c675c7a4896194c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DataPlanRequestUtil</sys_name>
+        <sys_package display_value="tdd-example" source="x_402400_tdd_examp">a1671a32db5020104c675c7a48961974</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="tdd-example">a1671a32db5020104c675c7a48961974</sys_scope>
+        <sys_update_name>sys_script_include_a2efa2f2db9020104c675c7a4896194c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-09 15:31:35</sys_updated_on>
+    </sys_script_include>
+</record_update>

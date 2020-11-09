@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="price" label="Price" language="en" table="x_402400_tdd_examp_data_plan_data_lookup">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>price</element>
+            <help/>
+            <hint/>
+            <label>Price</label>
+            <language>en</language>
+            <name>x_402400_tdd_examp_data_plan_data_lookup</name>
+            <plural>Prices</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-09 13:50:54</sys_created_on>
+            <sys_id>1799d2f2db5020104c675c7a48961918</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Price</sys_name>
+            <sys_package display_value="tdd-example" source="x_402400_tdd_examp">a1671a32db5020104c675c7a48961974</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="tdd-example">a1671a32db5020104c675c7a48961974</sys_scope>
+            <sys_update_name>sys_documentation_x_402400_tdd_examp_data_plan_data_lookup_price_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-09 13:50:54</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

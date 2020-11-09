@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_402400_tdd_examp.tdd-example-role" name="x_402400_tdd_examp.tdd-example-role">19875676db1020104c675c7a48961999</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-09 13:41:46</sys_created_on>
+        <sys_id>1d875a72db5020104c675c7a489619a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>19875676db1020104c675c7a48961999</sys_name>
+        <sys_package display_value="tdd-example" source="x_402400_tdd_examp">a1671a32db5020104c675c7a48961974</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="tdd-example">a1671a32db5020104c675c7a48961974</sys_scope>
+        <sys_update_name>sys_embedded_help_role_1d875a72db5020104c675c7a489619a6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-09 13:41:46</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

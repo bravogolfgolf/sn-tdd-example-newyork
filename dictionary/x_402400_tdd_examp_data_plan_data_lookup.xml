@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" extends="dl_matcher" label="Data Plan Data Lookup" max_length="40" name="x_402400_tdd_examp_data_plan_data_lookup" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="40" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Device type" max_length="40" name="device_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Plan type" max_length="40" name="plan_type" type="string"/>
+        <element attributes="omit_sys_original=true" label="Price" max_length="20" name="price" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Provider" max_length="40" name="provider" type="string"/>
+    </element>
+</database>

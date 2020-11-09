@@ -5,8 +5,8 @@
         <cat_item display_value="Data Plan Request">e2cf963adb5020104c675c7a4896197c</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
-        <choice_field>provider</choice_field>
-        <choice_table>x_402400_tdd_examp_data_plan_data_lookup</choice_table>
+        <choice_field>active</choice_field>
+        <choice_table/>
         <create_roles/>
         <default_html_value/>
         <default_value/>
@@ -29,7 +29,7 @@
         <lookup_label/>
         <lookup_price/>
         <lookup_table/>
-        <lookup_unique>true</lookup_unique>
+        <lookup_unique>false</lookup_unique>
         <lookup_value/>
         <macro/>
         <mandatory>true</mandatory>
@@ -59,14 +59,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-11-09 14:44:19</sys_created_on>
         <sys_id>d82266badb5020104c675c7a4896196a</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Provider</sys_name>
         <sys_package display_value="tdd-example" source="x_402400_tdd_examp">a1671a32db5020104c675c7a48961974</sys_package>
         <sys_policy/>
         <sys_scope display_value="tdd-example">a1671a32db5020104c675c7a48961974</sys_scope>
         <sys_update_name>item_option_new_d82266badb5020104c675c7a4896196a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-11-09 14:50:03</sys_updated_on>
+        <sys_updated_on>2020-11-09 15:58:00</sys_updated_on>
         <table/>
         <tooltip/>
         <type>5</type>

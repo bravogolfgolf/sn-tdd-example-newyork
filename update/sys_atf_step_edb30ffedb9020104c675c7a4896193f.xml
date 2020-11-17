@@ -23,7 +23,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-11-09 17:02:39</sys_updated_on>
         <table/>
-        <test display_value="Data Plan">e33387fedb9020104c675c7a489619f1</test>
+        <test display_value="Data Plan Unit Test">e33387fedb9020104c675c7a489619f1</test>
         <timeout/>
         <warning_message/>
     </sys_atf_step>

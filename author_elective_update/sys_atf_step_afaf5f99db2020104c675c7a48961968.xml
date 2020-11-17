@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <copied_from/>
+        <description>Open "Data Plan Request" in the "Service Portal" portal</description>
+        <display_name>Open a Catalog Item (SP)</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>1</order>
+        <snapshot/>
+        <step_config display_value="Open a Catalog Item (SP)">e81f02dc73e703008e6b0d573cf6a76f</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-17 13:22:07</sys_created_on>
+        <sys_id>afaf5f99db2020104c675c7a48961968</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open a Catalog Item (SP)</sys_name>
+        <sys_package display_value="tdd-example" source="x_402400_tdd_examp">a1671a32db5020104c675c7a48961974</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="tdd-example">a1671a32db5020104c675c7a48961974</sys_scope>
+        <sys_update_name>sys_atf_step_afaf5f99db2020104c675c7a48961968</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-17 13:22:07</sys_updated_on>
+        <table/>
+        <test display_value="Data Plan UI Test">cc9f5f19db2020104c675c7a48961960</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=afaf5f99db2020104c675c7a48961968"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>afaf5f99db2020104c675c7a48961968</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-17 13:22:07</sys_created_on>
+        <sys_id>77bf1bd9db2020104c675c7a489619b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-17 13:22:07</sys_updated_on>
+        <value>81b75d3147032100ba13a5554ee4902b</value>
+        <variable display_value="">3731d6dc73e703008e6b0d573cf6a788</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>afaf5f99db2020104c675c7a48961968</document_key>
+        <order>120</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-17 13:22:07</sys_created_on>
+        <sys_id>b3bf1bd9db2020104c675c7a489619b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-17 13:22:07</sys_updated_on>
+        <value>e2cf963adb5020104c675c7a4896197c</value>
+        <variable display_value="">ac615adc73e703008e6b0d573cf6a702</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>afaf5f99db2020104c675c7a48961968</document_key>
+        <order>110</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-17 13:22:07</sys_created_on>
+        <sys_id>b7bf1bd9db2020104c675c7a489619b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-17 13:22:07</sys_updated_on>
+        <value>9f12251147132100ba13a5554ee490f4</value>
+        <variable display_value="">83d1dadc73e703008e6b0d573cf6a779</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>afaf5f99db2020104c675c7a48961968</document_key>
+        <order>150</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-17 13:22:07</sys_created_on>
+        <sys_id>ffbf1bd9db2020104c675c7a489619b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-17 13:22:07</sys_updated_on>
+        <value/>
+        <variable display_value="">3a6e5fb15f1013001f1e1f9f2f7313e3</variable>
+    </sys_variable_value>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="tdd-example">a1671a32db5020104c675c7a48961974</application>
+        <file_path/>
+        <instance_id>a31b32ccdb553f4049eac597059619b4</instance_id>
+        <instance_name>dev84884</instance_name>
+        <name>sys_atf_step_afaf5f99db2020104c675c7a48961968</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Open "Data Plan Request" in the "Service Portal" portal</description><display_name>Open a Catalog Item (SP)</display_name><inputs/><mugshots_cache_json/><notes/><order>1</order><snapshot/><step_config display_value="Open a Catalog Item (SP)">e81f02dc73e703008e6b0d573cf6a76f</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-17 13:22:07</sys_created_on><sys_id>afaf5f99db2020104c675c7a48961968</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Open a Catalog Item (SP)</sys_name><sys_package display_value="tdd-example" source="x_402400_tdd_examp">a1671a32db5020104c675c7a48961974</sys_package><sys_policy/><sys_scope display_value="tdd-example">a1671a32db5020104c675c7a48961974</sys_scope><sys_update_name>sys_atf_step_afaf5f99db2020104c675c7a48961968</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-17 13:22:07</sys_updated_on><table/><test display_value="Data Plan UI Test">cc9f5f19db2020104c675c7a48961960</test><timeout/><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=afaf5f99db2020104c675c7a48961968"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>afaf5f99db2020104c675c7a48961968</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-17 13:22:07</sys_created_on><sys_id>77bf1bd9db2020104c675c7a489619b1</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-17 13:22:07</sys_updated_on><value>81b75d3147032100ba13a5554ee4902b</value><variable display_value="">3731d6dc73e703008e6b0d573cf6a788</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>afaf5f99db2020104c675c7a48961968</document_key><order>120</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-17 13:22:07</sys_created_on><sys_id>b3bf1bd9db2020104c675c7a489619b1</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-17 13:22:07</sys_updated_on><value>e2cf963adb5020104c675c7a4896197c</value><variable display_value="">ac615adc73e703008e6b0d573cf6a702</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>afaf5f99db2020104c675c7a48961968</document_key><order>110</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-17 13:22:07</sys_created_on><sys_id>b7bf1bd9db2020104c675c7a489619b0</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-17 13:22:07</sys_updated_on><value>9f12251147132100ba13a5554ee490f4</value><variable display_value="">83d1dadc73e703008e6b0d573cf6a779</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>afaf5f99db2020104c675c7a48961968</document_key><order>150</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-17 13:22:07</sys_created_on><sys_id>ffbf1bd9db2020104c675c7a489619b0</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-17 13:22:07</sys_updated_on><value/><variable display_value="">3a6e5fb15f1013001f1e1f9f2f7313e3</variable></sys_variable_value></record_update>]]></payload>
+        <payload_hash>-997519186</payload_hash>
+        <record_name>Open a Catalog Item (SP)</record_name>
+        <reverted_from/>
+        <source>7ecfcb7adbd020104c675c7a48961995</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-17 13:22:07</sys_created_on>
+        <sys_id>7bbf1bd9db2020104c675c7a489619b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>175d65ea1d90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-17 13:22:07</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>b3bf1bd9b02020105b43d83b0750acb3</update_guid>
+        <update_guid_history>b3bf1bd9b02020105b43d83b0750acb3:-997519186</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-17 13:26:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>7623bb154d264838831c0d929bbb9519</sys_id>
+        <sys_metadata>afaf5f99db2020104c675c7a48961968</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open a Catalog Item (SP)</sys_name>
+        <sys_package display_value="tdd-example" source="x_402400_tdd_examp">a1671a32db5020104c675c7a48961974</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="tdd-example">a1671a32db5020104c675c7a48961974</sys_scope>
+        <sys_scope_delete display_value="">8429f7aeeb8149219dda29da0652b451</sys_scope_delete>
+        <sys_update_name>sys_atf_step_afaf5f99db2020104c675c7a48961968</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_afaf5f99db2020104c675c7a48961968">7bbf1bd9db2020104c675c7a489619b3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-17 13:26:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

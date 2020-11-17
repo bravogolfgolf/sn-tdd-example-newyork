@@ -48,7 +48,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-11-09 13:50:54</sys_created_on>
-        <sys_id>5b99d2f2db5020104c675c7a48961923</sys_id>
+        <sys_id>b9cf8b7adbd020104c675c7a4896190e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Device type</sys_name>
         <sys_package display_value="tdd-example" source="x_402400_tdd_examp">a1671a32db5020104c675c7a48961974</sys_package>
@@ -56,7 +56,7 @@
         <sys_scope display_value="tdd-example">a1671a32db5020104c675c7a48961974</sys_scope>
         <sys_update_name>sys_dictionary_x_402400_tdd_examp_data_plan_data_lookup_device_type</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-11-09 13:50:54</sys_updated_on>
+        <sys_updated_on>2020-11-09 17:47:33</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

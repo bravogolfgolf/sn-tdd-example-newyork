@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite">
+    <sys_atf_test_suite action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <input_filter table="sys_atf_test">sys_scope=a1671a32db5020104c675c7a48961974^EQ<item display_table="sys_scope" display_value="tdd-example" endquery="false" field="sys_scope" goto="false" newquery="false" operator="=" or="false" value="a1671a32db5020104c675c7a48961974"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </input_filter>
+        <name>tdd-example</name>
+        <parent/>
+        <sys_class_name>sys_atf_test_suite</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-02 20:36:09</sys_created_on>
+        <sys_id>efa15d331b5501106c166464604bcbdf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tdd-example</sys_name>
+        <sys_package display_value="tdd-example" source="x_402400_tdd_examp">a1671a32db5020104c675c7a48961974</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="tdd-example">a1671a32db5020104c675c7a48961974</sys_scope>
+        <sys_update_name>sys_atf_test_suite_efa15d331b5501106c166464604bcbdf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-02 20:36:09</sys_updated_on>
+    </sys_atf_test_suite>
+</record_update>

@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
     <sc_cat_item action="INSERT_OR_UPDATE">
+        <access_type/>
         <active>true</active>
         <availability>on_desktop</availability>
         <billable>false</billable>
         <category/>
+        <checked_out/>
         <cost>0</cost>
         <custom_cart/>
         <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
@@ -12,6 +14,7 @@
         <description/>
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
+        <flow_designer_flow/>
         <group/>
         <hide_sp>false</hide_sp>
         <icon/>
@@ -25,7 +28,7 @@
         <mobile_picture/>
         <mobile_picture_type>use_desktop_picture</mobile_picture_type>
         <model/>
-        <name>Data Plan Request</name>
+        <name>Data Plan Request (Script)</name>
         <no_attachment_v2>true</no_attachment_v2>
         <no_cart>false</no_cart>
         <no_cart_v2>true</no_cart_v2>
@@ -40,9 +43,11 @@
         <omit_price>false</omit_price>
         <order>0</order>
         <ordered_item_link/>
+        <owner/>
         <picture/>
         <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=e2cf963adb5020104c675c7a4896197c&amp;sysparm_preview=true", "summary");</preview>
         <price>0</price>
+        <published_ref/>
         <recurring_frequency/>
         <recurring_price>0</recurring_price>
         <request_method>submit</request_method>
@@ -50,22 +55,26 @@
         <sc_catalogs/>
         <sc_ic_item_staging/>
         <sc_ic_version/>
+        <sc_template/>
         <short_description/>
         <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
+        <state/>
         <sys_class_name>sc_cat_item</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-11-09 14:18:21</sys_created_on>
         <sys_id>e2cf963adb5020104c675c7a4896197c</sys_id>
-        <sys_mod_count>6</sys_mod_count>
-        <sys_name>Data Plan Request</sys_name>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Data Plan Request (Script)</sys_name>
         <sys_package display_value="tdd-example" source="x_402400_tdd_examp">a1671a32db5020104c675c7a48961974</sys_package>
         <sys_policy/>
         <sys_scope display_value="tdd-example">a1671a32db5020104c675c7a48961974</sys_scope>
         <sys_update_name>sc_cat_item_e2cf963adb5020104c675c7a4896197c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-11-17 12:46:31</sys_updated_on>
+        <sys_updated_on>2022-02-02 20:35:02</sys_updated_on>
+        <taxonomy_topic/>
         <template/>
+        <template_manager_roles/>
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
